@@ -43,7 +43,7 @@ public class Questão02 {
 				resultado = (int) (valor2 - 0.4*valor2);
 				break;
 			case 'r':
-				resultado = (int) (valor2 - 0.4*1.15*valor2);
+				resultado = (int) (valor2 - 0.4*valor2);
 				break;
 			case 'a':
 				resultado = valor2;
